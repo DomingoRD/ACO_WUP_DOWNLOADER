@@ -52,14 +52,14 @@ spanish = {"Finished":    # English
            ("This is a simple GUI by dojafoja that was written for Aco Wup Downloader.\nCredits to cearp,"
             "cerea1killer,GeovanniMCh and all the Github contributors for writing Aco Wup Downloader."):
                ("Esta es una GUI simple hecha por dojafoja para Aco Wup Downloader.\nCréditos a cearp,"
-                "cerea1killer,GeovanniMCh y a todos los contribuidores de Github por hacer Aco Wup Downloader."),
+                "cerea1killer, GeovanniMCh y a todos los contribuidores de Github por hacer Aco Wup Downloader."),
 
            ("If this is your first time running the program, you will need to provide the name"
             " of *that key site*. If you haven\'t already\nprovided the address to the key site,"
             " you MUST provide it below before proceeding. You only need to provide this information once!"):
                ("Si es la primera  vez que usas este programa, necesitaras ingresar el url"
                 " de la *página de keys*. Si aun no has\ningresado la dirección de el sitio de las keys,"
-                " deberas ingresarla antes de seguir. solo necesitas ingresarla una vez!"),
+                " deberas ingresarla antes de seguir. ¡Solo necesitas ingresarla una vez!"),
 
            "Enter the name of *that key site*. Remember that you MUST include the http:// or https://":
                "Ingresa la url del *sitio de keys*. Recuerda que debes incluir http:// o https://",
@@ -172,7 +172,7 @@ spanish = {"Finished":    # English
                "Autodetectar Juego, Actualización y DLC:",
 
            "When adding games to the download list, you can automatically fetch it's related update and dlc":
-               "Cuando agregues un Juego a la lista de descarga, automáticamente podras agregar su Actualización y DLC",
+               "Cuando agregues un Juego a la lista de descarga, automáticamente podrás agregar su Actualización y DLC",
 
            "Disabled":
                "Desactivado",
@@ -295,7 +295,7 @@ spanish = {"Finished":    # English
                "No hay actualización disponible",
 
            "Success":
-               "Finalizado",
+               "¡Finalizado!",
 
            "Restart application\nfor changes to take effect.":
                "Reinicia el programa para que los cambios tengan efecto.",
@@ -313,13 +313,13 @@ spanish = {"Finished":    # English
                "Actualización de este Juego disponible",
 
            "There is an update available for this game, would you like to add it to the list as well?":
-               "Hay una actualización disponible para este Juego, quieres agregarlo a la lista?",
+               "Hay una actualización disponible para este Juego, ¿quieres agregarlo a la lista?",
 
            "Game dlc is available":
                "DLC de este Juego disponible",
 
            "There is dlc available for this game, would you like to add it to the list as well?":
-               "Hay un DLC desponible para este Juego, quieres agregarlo a la lista?",
+               "Hay un DLC desponible para este Juego, ¿quieres agregarlo a la lista?",
 
            "Bad Title ID. Must be a 16 digit hexadecimal.":
                "Title ID Incorrecto. Debe ser un número hexadecimal de 16 dígitos.",
@@ -355,10 +355,10 @@ spanish = {"Finished":    # English
                "{} para el title {} ya existe, omitiendo archivo.",
 
            "WARNING: {} for title {} finished with a smaller than expected size!":
-               "ADVERTENCIA: {} title {} finalizado con un tamaño menor al esperado!",
+               "ADVERTENCIA: {} title {} ¡finalizado con un tamaño menor al esperado!",
 
            "WARNING: {} for title {} finished with a larger than expected size!":
-               "ADVERTENCIA: {} title {} finalizado con un tamaño mayor al esperado!",
+               "ADVERTENCIA: {} title {} ¡finalizado con un tamaño mayor al esperado!",
 
            "DOWNLOAD ERROR:":
                "ERROR DE DESCARGA:",
